@@ -13,13 +13,57 @@ h4,
 h5,
 h6 {
     font-family: 'Righteous', cursive;
+    text-transform: uppercase;
 }
 
 body {
     font-family: 'Merienda', cursive;
     color: #333;
+    background-image: url('/assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 /**
  * the main declarations, huehuehue
  */
+
+.fp-tooltip {
+    color: #333!important;
+    font-family: 'Merienda', cursive;
+}
+
+#introduction #headline {
+    font-size: 3em;
+    line-height: 0.8em;
+}
+
+#introduction #callouts {
+    color: #f22a62;
+}
+
+#collage .meet-them {
+    width: 300px;
+}
+
+#collage .panel .panel-heading h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+#collage .table tr td {
+    border-top: none;
+    border-bottom: 1px dashed #f22a62;
+}
+
+#collage .table td {
+    text-align: center;
+    font-size: 20px;
+}
+
+#venue .panel-body {
+    font-size: 15px;
+}
+
+#venue .panel-body b {
+    font-size: 18px;
+}
