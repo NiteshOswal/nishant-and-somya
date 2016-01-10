@@ -1,0 +1,26 @@
+{
+  "name": "Nishant & Somya's Wedding",
+  "version": "0.0.1",
+  "description": "To one of the most stubborn asshole brother, and the most elegant new sister in law",
+  "main": "assets/js/main.js",
+  "moduleType": [],
+  "keywords": [
+    "Wedding",
+    "Landing",
+    "Page",
+    "Design"
+  ],
+  "authors": [
+    "Nitesh Oswal"
+  ],
+  "license": "MIT",
+  "homepage": "http://niteshoswal.me",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

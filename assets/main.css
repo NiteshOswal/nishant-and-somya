@@ -1,0 +1,24 @@
+/* Leaving this here for references
+font-family: 'Righteous', cursive;
+font-family: 'Merienda', cursive;
+*/ 
+
+/**
+ * font-family definitions
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Righteous', cursive;
+}
+
+body {
+    font-family: 'Merienda', cursive;
+}
+
+/**
+ * the main declarations, huehuehue
+ */
