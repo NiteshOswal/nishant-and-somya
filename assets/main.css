@@ -71,13 +71,13 @@ body {
 
 #countdown {
     width: 420px;
-    height: 116px;
+    height: 130px;
     margin: 40px auto;
 }
 
 @media (max-width: 420px) {
     #countdown {
-        margin-left: -50px!important;
+        margin-left: -40px!important;
         -moz-transform: scale(0.5);
         -webkit-transform: scale(0.5);
         -o-transform: scale(0.5);
