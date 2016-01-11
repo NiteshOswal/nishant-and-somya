@@ -77,7 +77,7 @@ body {
 
 @media (max-width: 420px) {
     #countdown {
-        margin-left: -40px!important;
+        margin-left: -80px!important;
         width: 500px;
         -moz-transform: scale(0.4);
         -webkit-transform: scale(0.4);
